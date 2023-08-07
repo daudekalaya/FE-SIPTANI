@@ -1,0 +1,38 @@
+/* .container{
+  width: 1000px;
+  margin: 0 auto;
+  display: inline-flex;
+}
+
+.logo{
+  max-width: 155px;
+}
+
+.header{
+  width: 100%;
+  background-color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.topmenu{
+  display: flex;
+  list-style: none;
+  width: 100%;
+  text-align: center;
+}
+
+.topmenu li a{
+  text-decoration: none;
+  padding: 5px 20px;
+  font-weight: 500;
+}
+
+.topmenu li a:hover{
+  color: #8DC73F;
+}
+
+.cart{
+  padding: 20px 35px;
+  cursor: pointer;
+} */
